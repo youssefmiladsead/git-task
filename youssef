@@ -1,0 +1,17 @@
+[33mcommit 0f01429c2aecd2fd13594836a548d987de4b0e10[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 24 11:16:48 2025 +0200
+
+    Add third file
+
+[33mcommit 1f72fd4a575a4c20aa70b7005e1972bb7b227e29[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 24 11:16:40 2025 +0200
+
+    Add second file
+
+[33mcommit f6f18c714aa0b9aaa729e5981a811df78b30692e[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 24 11:16:32 2025 +0200
+
+    Add first file
