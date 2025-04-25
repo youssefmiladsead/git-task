@@ -1,0 +1,42 @@
+**1. Match the Term:** Match the following Git terms with their correct definitions.
+Repository: A project folder tracked by Git.
+Commit: A snapshot of changes recorded in the Git history.
+Branch: A copy of your codebase for parallel development.
+Merge: Combines changes from different branches.
+Staging Area: A holding area for files before committing.
+Conflict: Happens when two commits modify the same line.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Initialize a new Git project: git init
+Create a new branch called "feature-x": git branch feature-x
+Stage all files: git add .
+See changes that are staged: git status
+Combine changes from feature-x to main: git merge feature-x
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+1-Switch to the feature branch:
+git checkout feature/login
+
+
+2-Add and commit your changes:
+git add .
+git commit -m "Add login feature"
+
+
+3-Push the feature branch to GitHub:
+git push origin feature/login
+
+
+4-Open GitHub and navigate to your repository.
+
+5-Click on "Compare & pull request" for the feature/login branch.
+
+6-Fill in the pull request details (title, description, etc.).
+
+7-Submit the pull request.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Add responsive navbar component to improve navigation
